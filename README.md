@@ -3,5 +3,6 @@ The Todo Application with Angular and Bootstrap offers a clean and intuitive use
 # Tech-stack
 Bootstrap, Angular.js
 
-# Deploy Link on netlify:
+# Deploy Link on Netlify:
 https://angular-todo-application-masai.netlify.app/
+![Screenshot (327)](https://github.com/Pushpendra-1697/Todo-Clone-Angular/assets/104748364/172e4184-dc8e-4364-b6cf-fe8953ebbf7e)
